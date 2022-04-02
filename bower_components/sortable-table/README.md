@@ -45,13 +45,13 @@ There are many capable Javascript grids, this one aims to have all the same feat
 
 ## Live Examples and Documentation
 
-> [Themes](http://stevenrskelton.github.io/sortable-table//examples/themes/index.html)
+> [Themes](http://stevenrskelton.github.io/sortable-table/examples/themes/index.html)
 
-> [Alternative Row Themes](http://stevenrskelton.github.io/sortable-table//examples/themes/alt.html)
+> [Alternative Row Themes](http://stevenrskelton.github.io/sortable-table/examples/themes/alt.html)
 
-> [Row Editor with Undo Functionality](http://stevenrskelton.github.io/sortable-table//examples/row-editor.html)
+> [Row Editor with Undo Functionality](http://stevenrskelton.github.io/sortable-table/examples/row-editor.html)
 
-> [Row Filtering](http://stevenrskelton.github.io/sortable-table//examples/row-filters.html)
+> [Row Filtering](http://stevenrskelton.github.io/sortable-table/examples/row-filters.html)
 
 > [Additional Arguments](http://stevenrskelton.github.io/sortable-table//examples/args.html)
 
